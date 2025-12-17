@@ -1,1 +1,1 @@
-# ligt_of_the_world
+# light_of_the_world
